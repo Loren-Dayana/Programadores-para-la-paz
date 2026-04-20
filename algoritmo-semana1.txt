@@ -1,0 +1,6 @@
+ Identificar la fuente principal de la informacion o noticia
+ Verificar e investigar la reputacion y trayectoria de la persona o medio que escribio la informacion o noticia 
+ Contrastar la noticia buscando misma informacion en minimo 3 fuentes confiables diferentes 
+ Analizar y revisar la fecha de publicacion para asegurar que el contenido no este desactualizado o con la fecha incorrecta
+ Evaluar el contenido que tiene, por ejemplo: graficas, citas, enlaces
+ Si se han complido los pasos anteriores podemos tomar una desicion para compartir la informacion
