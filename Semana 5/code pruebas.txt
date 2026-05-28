@@ -1,0 +1,5 @@
+localhost:3000 -> Muestra "Servidor activo". Confirmado.
+
+localhost:3000/saludo -> Muestra "Hola comunidad". Confirmado.
+
+localhost:3000/mensaje/juan -> Muestra "Hola tu-nombre". La ruta dinámica funciona.

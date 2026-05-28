@@ -1,0 +1,1 @@
+La ruta POST /reporte recibe datos en el "body" de la petición. En una comunidad sirve para enviar formularios de reportes de daños o alertas de seguridad sin exponer los datos en la URL.
