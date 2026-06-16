@@ -1,0 +1,9 @@
+Al enviar una petición POST a http://localhost:3000/registro con datos en formato JSON, el servidor procesa la información entrante gracias a la línea "app.use(express.json())". Esta configuración extrae las propiedades desde el 'req.body' del cliente.
+
+Finalmente, el backend responde de forma exitosa regresando un JSON estructurado que confirma que los datos fueron recibidos de manera correcta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Loren",
+  "mensaje": "Hola comunidad"
+}
