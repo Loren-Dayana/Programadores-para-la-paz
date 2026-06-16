@@ -1,0 +1,5 @@
+Comando 'uname -a': Muestra información detallada del sistema operativo, como el nombre del sistema operativo (Linux), el nombre de la máquina, la versión del kernel y la arquitectura del procesador.
+
+Comando 'whoami': Muestra el nombre del usuario actual que inició sesión en la terminal.
+
+¿Por qué es útil?: Es fundamental al administrar un servidor porque permite saber exactamente qué sistema operativo y versión se está ejecutando para instalar software compatible, aplicar parches de seguridad correctos y saber qué nivel de privilegios tiene el usuario actual para ejecutar tareas administrativas.
