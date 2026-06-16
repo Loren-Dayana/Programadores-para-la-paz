@@ -1,0 +1,11 @@
+Al realizar una consulta mediante la ruta GET a http://localhost:3000/reportes cuando la aplicación está vacía, el servidor devuelve un array vacío []. 
+
+Sin embargo, después de ejecutar peticiones POST con datos válidos, la ruta GET cambia dinámicamente y expone todos los objetos JSON almacenados actualmente en la memoria RAM del servidor de esta manera:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
