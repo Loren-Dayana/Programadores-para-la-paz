@@ -1,0 +1,8 @@
+[PRIORIDAD ALTA]
+1. Como ciudadano quiero registrar una incidencia o reporte comunitario en el sistema para dejar evidencia pública del caso.
+
+[PRIORIDAD MEDIA]
+2. Como coordinador del equipo de veeduría quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para asignarlo rápidamente a un revisor.
+
+[PRIORIDAD BAJA]
+3. Como miembro del equipo de veeduría quiero consultar el historial de reportes para hacer seguimiento al avance y evolución de las soluciones.
