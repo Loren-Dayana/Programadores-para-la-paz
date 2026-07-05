@@ -1,0 +1,23 @@
+Entidad: Causa_Comunitaria
+
+Campos principales:
+- id (Clave primaria, autoincremental)
+- titulo (Texto corto)
+- descripcion (Texto largo)
+- sector_afectado (Texto)
+- fecha_creacion (Fecha)
+
+Propósito:
+Almacenar de forma estructurada las diferentes problemáticas o iniciativas ciudadanas que los vecinos proponen para buscar una solución conjunta.
+
+
+Entidad: Apoyo_Ciudadano
+
+Campos principales:
+- id (Clave primaria, autoincremental)
+- causa_id (Clave foránea que conecta con Causa_Comunitaria)
+- pseudonimo_usuario (Texto, para proteger la identidad real)
+- fecha_apoyo (Fecha)
+
+Propósito:
+Registrar los respaldos o votos digitales que recibe cada causa comunitaria para medir el nivel de prioridad, interés y urgencia de la comunidad sin almacenar datos sensibles.

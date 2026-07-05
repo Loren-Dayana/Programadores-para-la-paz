@@ -1,0 +1,7 @@
+La interfaz de usuario contará con un panel principal claro y accesible que mostrará una "Vista de causas disponibles" en formato de tarjetas dinámicas, ordenadas por fecha.
+
+En la parte superior, habrá un "Formulario para crear una causa" que solicitará únicamente un título descriptivo, la problemática detallada y el sector correspondiente, validando que no se digiten datos personales.
+
+Cada tarjeta de la vista pública incluirá un "Contador de apoyos" que mostrará visualmente el respaldo acumulado de la comunidad, acompañado de un "Botón para apoyar una causa" que se activará solo para usuarios autenticados.
+
+El diseño general será responsivo, limpio y minimalista, priorizando la usabilidad ciudadana y garantizando que ningún dato de carácter privado o de auditoría interna sea visible para el público general.

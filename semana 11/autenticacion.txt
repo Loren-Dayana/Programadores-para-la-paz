@@ -1,0 +1,4 @@
+El login es el mecanismo de seguridad que permite identificar y validar la identidad de un usuario registrado mediante credenciales antes de otorgarle acceso al sistema.
+Algunas rutas de la aplicación deben estar protegidas de forma obligatoria porque ejecutan acciones administrativas sensibles, como la modificación o eliminación de reportes y la gestión de usuarios.
+Dejar estas rutas abiertas permitiría que cualquier atacante altere las evidencias de control social o sabotee las iniciativas de la comunidad.
+Por esta razón, bajo ninguna circunstancia se debe exponer públicamente información confidencial como contraseñas en texto plano, tokens de sesión, claves de API, direcciones exactas de hogares o datos de contacto personales de los ciudadanos.
