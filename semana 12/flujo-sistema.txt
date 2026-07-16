@@ -1,0 +1,8 @@
+FLUJO DEL SISTEMA: PETICIÓN EN 3 CLICS
+
+1. Registro de la Causa: Un líder comunitario o ciudadano ingresa a la plataforma y redacta una causa colectiva (por ejemplo, reparación de luminarias en el parque) detallando la problemática.
+2. Almacenamiento en Base de Datos: La causa se registra de forma segura en la base de datos con un ID único para que sea pública y accesible para la comunidad.
+3. Recolección de Apoyos: Los vecinos ingresan a la plataforma, leen la causa y registran su apoyo de manera rápida, minimizando la entrega de datos sensibles.
+4. Conteo de Firmas en Tiempo Real: El sistema actualiza y cuenta automáticamente cada nuevo apoyo asociado al ID de la causa comunitaria.
+5. Generación del Documento Formal: Una vez alcanzada la meta de apoyos, el sistema compila la información y genera de forma automática un documento PDF formal que sirve como evidencia organizada.
+6. Notificación y Descarga: El sistema notifica a los organizadores que el PDF está listo para ser descargado y radicado formalmente ante las entidades correspondientes.

@@ -1,0 +1,7 @@
+DISEÑO DE AUTOMATIZACIÓN DEL SISTEMA
+
+Plataforma utilizada: n8n conectado a bot de Telegram
+
+- Evento que activa la automatización: Registro de una nueva causa comunitaria en la plataforma.
+- Mensaje que se envía: "📢 ¡Nueva causa comunitaria creada! Se ha registrado la iniciativa: '{titulo_causa}'. Ingresa a la plataforma para conocer los detalles y sumar tu apoyo."
+- Información sensible que NO debe enviarse por seguridad: No se deben enviar nombres de los creadores, cédulas, números de teléfono, direcciones exactas de las personas ni comentarios privados. Solo se difunden datos públicos y de carácter general de la causa.
